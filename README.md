@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaviGamer44
 - 👀 I’m interested in the Friday Night Funkin' Comunity
-- 🌱 I’m currently learning how to compile Psych Engine, Kade Engine source code compiling
-- 💞️ I’m looking to collaborate on Elixo's Studios (https://gamebanana.com/studios/36215)
-- 📫 How to reach me: https://www.twitch.tv/tavigamer44 (that's the only way you can message me rn)
+- 🌱 I’m currently learning how to add stages in psych engine source code
+- 💞️ I’m looking to collaborate on Elixo's Studios (https://gamebanana.com/studios/36215) (done :D)
+- 📫 How to reach me: https://www.twitch.tv/tavigamer44 / https://gamebanana.com/members/1997938 (those are the only websites you can message me from rn)
